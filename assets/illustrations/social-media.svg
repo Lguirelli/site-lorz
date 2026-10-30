@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 200" width="260" height="200">
+<title>Comunicação em destaque</title>
+<!-- Shared visual system: irregular panel, offset solid shadow, 8-unit ink contour. -->
+<path d="M59 43 198 54 207 171 153 178 56 186 58 134 12 104 58 108Z" fill="#0A0F23" stroke="#FAE4CF" stroke-width="3" stroke-linejoin="miter"/>
+<path d="M70 31 208 42 217 157 164 164 68 172 70 121 24 91 70 95Z" fill="#FAE4CF" stroke="#0A0F23" stroke-width="8" stroke-linejoin="miter"/>
+<path d="m178 30 8-20 12 15 21-6-9 21 16 10-29 4Z" fill="#BB2233" stroke="#0A0F23" stroke-width="6"/>
+<path d="M91 69 186 74 190 121 148 122 124 145 125 121 91 118Z" fill="#0A0F23"/>
+<g fill="#FAE4CF"><circle cx="113" cy="95" r="7"/><circle cx="141" cy="97" r="7"/><circle cx="169" cy="98" r="7"/></g>
+<path d="m231 68 17-8-1 13-16 4ZM231 93l21 2-2 12-19-6Z" fill="#BB2233" stroke="#0A0F23" stroke-width="4"/>
+<path d="m54 144 20-2 13 15-4 20-20 9-19-12-3-18Z" fill="#0A0F23" stroke="#FAE4CF" stroke-width="3"/>
+<path d="M54 162h19m-8-8 8 8-8 8" fill="none" stroke="#FB8603" stroke-width="4" stroke-linejoin="miter"/>
+</svg>

@@ -1,0 +1,1298 @@
+[
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "home",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 265,
+    "images": true,
+    "scroll": 265,
+    "width": 280
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 305,
+    "images": true,
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 375,
+    "images": true,
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 584,
+    "images": true,
+    "scroll": 584,
+    "width": 599
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 745,
+    "images": true,
+    "scroll": 745,
+    "width": 760
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 984,
+    "images": true,
+    "scroll": 984,
+    "width": 999
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 985,
+    "images": true,
+    "scroll": 985,
+    "width": 1000
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 1425,
+    "images": true,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "client": 1905,
+    "images": true,
+    "scroll": 1905,
+    "width": 1920
+  }
+]

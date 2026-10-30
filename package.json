@@ -1,0 +1,11 @@
+{
+  "name": "lorz-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs && node scripts/publish-root.mjs",
+    "dev": "node server.mjs",
+    "check": "node --check build.mjs && node --check public/site.js && node --check public/theme.js && node --check server.mjs",
+    "publish:root": "node scripts/publish-root.mjs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "systemPreference": true,
+  "systemChange": true,
+  "keyboardToggle": true,
+  "persistence": true,
+  "completeLogo": true,
+  "reducedMotion": true,
+  "blockedStorage": true,
+  "errors": []
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "page": "home",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "home",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "servicos",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "servicos",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "social-media",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "social-media",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "criacao-de-sites",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "criacao-de-sites",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "solucoes",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "solucoes",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "sobre",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "sobre",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "contato",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "contato",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "privacidade",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "privacidade",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  },
+  {
+    "page": "404",
+    "client": 360,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 360,
+    "width": 375
+  },
+  {
+    "page": "404",
+    "client": 1425,
+    "eyebrows": 0,
+    "fonts": "loaded",
+    "h1": 1,
+    "scroll": 1425,
+    "width": 1440
+  }
+]

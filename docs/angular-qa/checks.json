@@ -1,0 +1,212 @@
+[
+  {
+    "path": "/",
+    "theme": "light",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/",
+    "theme": "light",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/",
+    "theme": "light",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos",
+    "theme": "light",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos",
+    "theme": "light",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos",
+    "theme": "light",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/social-media",
+    "theme": "light",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/social-media",
+    "theme": "light",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/social-media",
+    "theme": "light",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/criacao-de-sites",
+    "theme": "light",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/criacao-de-sites",
+    "theme": "light",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/criacao-de-sites",
+    "theme": "light",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/ferramentas-personalizadas",
+    "theme": "light",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/ferramentas-personalizadas",
+    "theme": "light",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/ferramentas-personalizadas",
+    "theme": "light",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/",
+    "theme": "dark",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/",
+    "theme": "dark",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/",
+    "theme": "dark",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos",
+    "theme": "dark",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos",
+    "theme": "dark",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos",
+    "theme": "dark",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/social-media",
+    "theme": "dark",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/social-media",
+    "theme": "dark",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/social-media",
+    "theme": "dark",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/criacao-de-sites",
+    "theme": "dark",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/criacao-de-sites",
+    "theme": "dark",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/criacao-de-sites",
+    "theme": "dark",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/ferramentas-personalizadas",
+    "theme": "dark",
+    "width": 320,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/ferramentas-personalizadas",
+    "theme": "dark",
+    "width": 390,
+    "overflow": false,
+    "loaded": true
+  },
+  {
+    "path": "/servicos/ferramentas-personalizadas",
+    "theme": "dark",
+    "width": 1440,
+    "overflow": false,
+    "loaded": true
+  }
+]

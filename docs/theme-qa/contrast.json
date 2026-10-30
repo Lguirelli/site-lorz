@@ -1,0 +1,128 @@
+[
+  {
+    "page": "home",
+    "theme": "dark",
+    "count": 115,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "servicos",
+    "theme": "dark",
+    "count": 53,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "social",
+    "theme": "dark",
+    "count": 29,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "sites",
+    "theme": "dark",
+    "count": 29,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "solucoes",
+    "theme": "dark",
+    "count": 29,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "sobre",
+    "theme": "dark",
+    "count": 43,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "contato",
+    "theme": "dark",
+    "count": 27,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "privacidade",
+    "theme": "dark",
+    "count": 28,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "404",
+    "theme": "dark",
+    "count": 20,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "home",
+    "theme": "light",
+    "count": 115,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "servicos",
+    "theme": "light",
+    "count": 53,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "social",
+    "theme": "light",
+    "count": 29,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "sites",
+    "theme": "light",
+    "count": 29,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "solucoes",
+    "theme": "light",
+    "count": 29,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "sobre",
+    "theme": "light",
+    "count": 43,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "contato",
+    "theme": "light",
+    "count": 27,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "privacidade",
+    "theme": "light",
+    "count": 28,
+    "failures": [],
+    "min": 5.034013638616262
+  },
+  {
+    "page": "404",
+    "theme": "light",
+    "count": 20,
+    "failures": [],
+    "min": 5.034013638616262
+  }
+]
